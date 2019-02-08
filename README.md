@@ -1,3 +1,3 @@
 # shell_scripts
 
-run "./parsecsv.sh <Filename with IFS :>"
+run "./parsecsv.sh FilenamewithIFS:"
